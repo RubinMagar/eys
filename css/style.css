@@ -51,7 +51,7 @@
 	border:none;
 	margin-bottom: 0;
 }
-li a{
+.navbar-default li a{
 	color:#000;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -73,35 +73,39 @@ li a{
 	width: 100%;
 	height: 500px;
 }
+/*home-intro*/
+#home-intro {
+	background: url("../images/home.jpg") no-repeat ;
+	background-size: cover;
+	color: black;
+}
 
-.home-intro {
-    font-size: 24px;
-    font-size: 2.4rem;
-    line-height: 1.58;
-    padding: 50px 0 0;
-    margin: 10px;
+.home-intro h3{
+	font-family: 'Alegreya SC';
+	font-size: 30px;
+	text-transform: capitalize;
 }
 .home-intro p{
-    margin: 0 0 20px 0;
-    padding: 0;
-}
-.btn-holder{
-    text-align: center;
-    margin: 30px;
+	text-align: justify;
 }
 
-.btn.btn-style1 {
-    background: none;
-    border: solid 1px #999;
-    color: #000;
-    padding: 14px 68px 13px;
-    border-radius: 12px;
-    font-size: 18px; 
+
+/*projects*/
+.projects h3{
+	font-family: 'Alegreya SC';
+	font-size: 30px;
+	text-transform: capitalize;
 }
-.btn.btn-style1:hover{
-	background-color: #999;
-	color: #fff;
-	transition: all 500ms ease;
+.projects .lists{
+	list-style-type: none;
+	padding-left: 0;
+}
+.projects .lists li a {
+	text-transform: capitalize;
+	text-decoration: none;
+	color: black;
+	font-family: 'El Messiri';
+	font-size: 15px;
 }
 
 
@@ -127,11 +131,12 @@ li a{
 	color:#999;
 }
 .text-center h3{
-	font-family: 'Alegreya SC';font-size: 30px;
+	font-family: 'Alegreya SC';
+	font-size: 30px;
 
 }
 p{
-	font-family: 'El Messiri'
+	font-family: 'El Messiri';
 }
 .text-center a{
   text-decoration: none;
