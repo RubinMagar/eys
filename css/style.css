@@ -1,4 +1,6 @@
-
+p{
+	font-family: 'El Messiri';
+}
 /* main header*/
 .main-header{
 	padding: 0;
@@ -180,8 +182,8 @@
 	font-size: 30px;
 
 }
-p{
-	font-family: 'El Messiri';
+text-center p{
+	text-align: justify;
 }
 .text-center a{
   text-decoration: none;
