@@ -1,0 +1,139 @@
+
+/* main header*/
+.main-header{
+	padding: 0;
+    margin: 15px;
+}
+.logo{
+	 width: 80px;
+    height: 80px;
+    margin-left: 100px;
+
+}
+.fa-envelope-o{
+	width: 50px;
+	height: 50px;
+	background:#FFBA00;
+	border-radius: 3px;
+	font-size: 30px;
+	margin: 10px;
+    padding-left: 11px;
+    padding-top: 10px;;
+}
+.fa-mobile{
+	width: 50px;
+	height: 50px;
+	background:#FFBA00;
+	border-radius: 3px;
+	font-size: 40px;
+	margin: 10px;
+    padding-left: 16px;
+    padding-top: 6px;
+}
+.details{
+	margin: 10px 0;
+}
+.title{
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+}
+.text{
+	color: #999;
+	font-size: 16px;
+}
+.border-nav{
+	border-top: 1px solid rgba(185, 174, 174, 0.4);
+}
+/*navbar*/
+.navbar-default{
+	background: rgba(238, 227, 227, 0.48);;
+	border:none;
+	margin-bottom: 0;
+}
+li a{
+	color:#000;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size:16px;
+	font-family: 'Alegreya SC';font-size: 22px;
+
+}
+.navbar-header .navbar-toggle {
+	background-color: #232121;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #141313;
+}
+
+
+/*body*/
+/*slider*/
+.carousel-inner .item img{
+	width: 100%;
+	height: 500px;
+}
+
+.home-intro {
+    font-size: 24px;
+    font-size: 2.4rem;
+    line-height: 1.58;
+    padding: 50px 0 0;
+    margin: 10px;
+}
+.home-intro p{
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+.btn-holder{
+    text-align: center;
+    margin: 30px;
+}
+
+.btn.btn-style1 {
+    background: none;
+    border: solid 1px #999;
+    color: #000;
+    padding: 14px 68px 13px;
+    border-radius: 12px;
+    font-size: 18px; 
+}
+.btn.btn-style1:hover{
+	background-color: #999;
+	color: #fff;
+	transition: all 500ms ease;
+}
+
+
+
+/*footer*/
+.footer{
+  background-color: #fff;
+}
+.Copyright-footer{
+	background-color: #000;
+}
+.border{
+	border-top: 1px solid #999;
+}
+.pull-right,
+.pull-left{
+  color: #fff;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.text-center{
+	background: #1f1f1f;
+	color:#999;
+}
+.text-center h3{
+	font-family: 'Alegreya SC';font-size: 30px;
+
+}
+p{
+	font-family: 'El Messiri'
+}
+.text-center a{
+  text-decoration: none;
+  color: inherit;
+}
