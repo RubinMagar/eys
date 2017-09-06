@@ -63,7 +63,7 @@
 				<div class="gallery">
 					<img class="img-responsive" src="images/gallery.png" alt="img-gallery">
 					<h3>gallery</h3>
-					<a href=""><button type="button" class="btn btn-warning">View here</button></a>
+					<a href="gallery.php"><button type="button" class="btn btn-warning">View here</button></a>
 				</div>
 			</div>
 		</div>		

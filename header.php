@@ -10,6 +10,10 @@
 
    
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+    <link href="lightbox/css/lightbox.css" rel="stylesheet">
 
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 
@@ -58,11 +62,11 @@
 
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav nav-justified">
-            <li><a href="/">Home</a></li>
-            <li><a href='/about'>About</a></li>
-            <li><a href="/project">Projects</a></li>
-            <li><a href="/gallery">Gallery</a></li>
-            <li><a href="/contact">Contact Us</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href='about.php'>About</a></li>
+            <li><a href="project.php">Projects</a></li>
+            <li><a href="gallery.php">Gallery</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
           </ul>
         </div><!--/.nav-collapse -->
     </div>
