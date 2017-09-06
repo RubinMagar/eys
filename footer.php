@@ -1,6 +1,6 @@
 <!-- footer -->
 <footer class="footer">
-	<div class="container-fluid text-center">
+	<div class="container text-left">
 		<div class="row">
 			<div class="col-md-4">
 				<h3>About Us</h3>
@@ -21,10 +21,11 @@
 			</div>
 		</div>
 	</div>
-
+</footer>
   <!-- border -->
 <div class="border"></div>
-  	<div class="container-fluid Copyright-footer">
+<section id="Copyright-footer">
+  	<div class="container Copyright-footer">
 		<div class="row">
 			<div class="col-md-6 ">
 				<p class="pull-left">Copyright © 2017.All Rights Reserved</p>
@@ -34,7 +35,7 @@
 			</div>
 		</div>
 	</div>
-</footer>
+</section>
 
 
 

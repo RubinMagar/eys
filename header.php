@@ -8,11 +8,11 @@
 	<!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
+   
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
     <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    
+
 </head>
 <body>
 <div class="container main-header">

@@ -77,8 +77,8 @@
 #home-intro {
 	background: url("../images/home.png") no-repeat ;
 	background-size: cover;
-	background-position: center;
-	color: black;
+	
+	color: #000;
 }
 
 .home-intro h3{
@@ -181,9 +181,9 @@
 
 /*footer*/
 .footer{
-  background-color: #fff;
+  background-color: #1f1f1f;
 }
-.Copyright-footer{
+#Copyright-footer{
 	background-color: #000;
 }
 .border{
@@ -194,20 +194,25 @@
   color: #fff;
   font-size: 15px;
   margin-top: 10px;
+  font-family: 'Open Sans', sans-serif;
+
 }
-.text-center{
+.text-left{
 	background: #1f1f1f;
 	color:#999;
 }
-.text-center h3{
-	font-family: 'Alegreya SC';
-	font-size: 30px;
+.text-left h3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	font-weight: bold;
 
 }
-text-center p{
+.text-left p{
 	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
 }
-.text-center a{
+.text-left a{
   text-decoration: none;
   color: inherit;
 }
