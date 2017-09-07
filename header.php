@@ -21,10 +21,10 @@
 <body>
 <div class="container main-header">
 	<div class="row">
-		<div class="col-md-4 col-sm-4 col-xs-12" >
+		<div class="col-md-4  col-sm-4  col-xs-4" >
 			<a href="#"><img src="images/logo.jpg" alt="logo" class="logo"></a>
 		</div>
-		<div class="col-md-8 col-sm-8 col-xs-12">
+		<div class="col-md-8 col-sm-8  col-xs-8">
 			<div class="row">
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="row">
@@ -37,7 +37,7 @@
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="row">
 						<div class="col-md-3 col-sm-12 col-xs-12"><i class="fa fa-mobile" aria-hidden="true"></i></div>
-						<div class="col-md-9 col-sm-12 col-xs-12"><div class="details"><div class="title">Phone</div><div class="text">22222222222222</div></div></div>
+						<div class="col-md-9 col-sm-12 col-xs-12"><div class="details"><div class="title">Phone</div><div class="text">2222222222</div></div></div>
 					</div>
 				</div>
 			</div>	

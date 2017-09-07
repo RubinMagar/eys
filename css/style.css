@@ -253,6 +253,7 @@
 	text-align: justify;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
+	color: #000;
 }
 
 .img-holder{
@@ -275,6 +276,36 @@
 
 #gallery{
   margin:40px;
+}
+
+
+/*Contact us*/
+/*contact*/
+#contact{
+	background: #f0f8ff;
+}
+.heading h3{
+	font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 20px auto;
+    color: #000;
+}
+.address p{
+	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #000;
+	text-transform: capitalize;
+}
+
+.address {
+	margin: 20px auto;
+}
+.btn-success{
+	font-size: x-large;
+	margin:10px auto;
 }
 
 /*footer*/
