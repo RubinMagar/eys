@@ -353,3 +353,7 @@
 .our-pages li:before {
 	content: "\00BB \0020";
 }
+.text-footer{
+	color: #999;
+	font-size: 12px;
+}

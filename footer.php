@@ -9,8 +9,8 @@
 			<div class="col-md-4">
 				<h3>Contact Info</h3>
 				<p class="links">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
-				<div class="text">Email:support-info@zxxcv.com</div>
-				<div class="text">Phone:2222222222</div>
+				<div class="text-footer">Email:support-info@zxxcv.com</div>
+				<div class="text-footer">Phone:2222222222</div>
 			</div>
 			<div class="col-md-4">
 				<h3>Our pages</h3>
