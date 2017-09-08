@@ -45,23 +45,23 @@
 				<div class="projects">
 					<h3>Projects</h3>
 					<ul class="lists">
-						<li><a href="">Prevention and protection</a></li>
-						<li><a href="">Transit homes</a></li>
-						<li><a href="">prosecution and legal counselling</a></li>
-						<li><a href="">rescue and pepatriation</a></li>
-						<li><a href="">trainings and job placement</a></li>
-						<li><a href="">women rehabilitation home</a></li>
-						<li><a href="">child protection program</a></li>
-						<li><a href="">education sponsorship</a></li>
-						<li><a href="">information and resources</a></li>
-						<li><a href="">PHC and HIV/AIDS program</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>Prevention and protection</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>Transit homes</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>prosecution and legal counselling</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>rescue and pepatriation</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>trainings and job placement</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>women rehabilitation home</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>child protection program</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>education sponsorship</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>information and resources</a></li>
+						<li><a href=""><i class="fa fa-arrow-right fa-lg" aria-hidden="true"></i>PHC and HIV/AIDS program</a></li>
 					</ul>
 
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="gallery">
-					<img class="img-responsive" src="images/gallery.png" alt="img-gallery">
+					<img class="img-responsive" src="images/gallery1.jpg" alt="img-gallery">
 					<h3>gallery</h3>
 					<a href="gallery.php"><button type="button" class="btn btn-warning">View here</button></a>
 				</div>

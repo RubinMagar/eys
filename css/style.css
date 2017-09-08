@@ -53,9 +53,8 @@
 	color:#000;
 	text-transform: uppercase;
 	font-weight: bold;
-	font-size:16px;
+	font-size: medium;
 	font-family: 'Ubuntu', sans-serif;
-	font-size: 22px;
 
 }
 .navbar-header .navbar-toggle {
@@ -75,17 +74,18 @@
 
 /*home-intro*/
 #home-intro {
-	background: url("../images/home.png") no-repeat ;
-	background-size: cover;
-	
+	background: url("../images/welcome.jpg") no-repeat ;
+	background-size: cover;	
 	color: #000;
 }
 
 .home-intro h3{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: capitalize;
-	font-weight:bold; 
+	font-weight:bold;
+	margin-top: 30px;
+	margin-bottom: 25px; 
 }
 .home-intro p{
 	text-align: justify;
@@ -97,7 +97,7 @@
 /*projects*/
 .projects h3{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: bold;
 	margin: 25px auto;
@@ -116,6 +116,10 @@
 	font-size: 15px;
 	line-height: 2;
 }
+.fa-lg{
+	color: #ffff00;
+	margin-right: 5px;
+}
 /*gallery*/
 .gallery{
 	position: relative;
@@ -128,12 +132,12 @@
 }
 .gallery h3{
 	position: absolute;
-    color: #fff;
+    color: #eee;
     bottom: 65%;
     left: 35%;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Open Sans', sans-serif;
 }
 .btn-warning{
@@ -146,19 +150,12 @@
     border-color: #FFBA00;
     padding: 10px 50px;
 }
+.btn-warning.active.focus, .btn-warning.active:focus, .btn-warning.active:hover, .btn-warning:active.focus, .btn-warning:active:focus, .btn-warning:active:hover, .open>.dropdown-toggle.btn-warning.focus, .open>.dropdown-toggle.btn-warning:focus, .open>.dropdown-toggle.btn-warning:hover {
+    color: #fff;
+    background-color: #FFBA00;
+    border-color: #FFBA00;
+}
 
-.btn-warning:hover{
-	background-color: #FFBA00;
-    border-color: #FFBA00;
-}
-.btn-warning:visited {
-	background-color: #FFBA00;
-    border-color: #FFBA00;
-}
-.btn-warning:active {
-	background-color: #FFBA00;
-    border-color: #FFBA00;
-}
 
 /*about-us*/
 .img-banner{
@@ -311,6 +308,8 @@
 /*footer*/
 .footer{
   background-color: #1f1f1f;
+  color: #a5a3a3;
+
 }
 #Copyright-footer{
 	background-color: #000;
@@ -320,8 +319,8 @@
 }
 .pull-right,
 .pull-left{
-  color: #fff;
-  font-size: 15px;
+  color: #fdfdfd;
+  font-size: 12px;
   margin-top: 10px;
   font-family: 'Open Sans', sans-serif;
 
@@ -332,7 +331,7 @@
 }
 .text-left h3{
 	font-family: 'Open Sans', sans-serif;
-	font-size: 25px;
+	font-size: 20px;
 	font-weight: bold;
 
 }
@@ -340,8 +339,17 @@
 	text-align: justify;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: lighter;
+	font-size: 12px;
 }
 .text-left a{
   text-decoration: none;
   color: inherit;
+}
+.our-pages{
+	list-style: none;
+	padding: 0;
+    font-size: 12px;
+}
+.our-pages li:before {
+	content: "\00BB \0020";
 }
